@@ -1,0 +1,6 @@
+.env
+token.json
+client_secret.json
+*.sqlite3
+__pycache__/
+.pytest_cache/

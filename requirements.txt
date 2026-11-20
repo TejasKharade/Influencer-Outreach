@@ -1,0 +1,5 @@
+streamlit>=1.40
+requests>=2.32
+google-auth>=2.35
+google-auth-oauthlib>=1.2
+pytest>=8.0
